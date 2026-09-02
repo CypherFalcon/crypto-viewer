@@ -8,6 +8,6 @@ public class CriptoViewerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CriptoViewerApplication.class, args);
-    }
 
+    }
 }
